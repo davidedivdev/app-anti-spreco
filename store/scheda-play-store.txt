@@ -1,0 +1,36 @@
+=== NOME APP (max 30 caratteri) ===
+Salvacibo: scadenze del cibo
+
+=== DESCRIZIONE BREVE (max 80 caratteri) ===
+Scansiona il prodotto e ti avviso prima che scada. Basta cibo buttato!
+
+=== DESCRIZIONE COMPLETA (max 4000 caratteri) ===
+Ti capita di trovare in frigo il pollo scaduto da due giorni o la marmellata aperta da chissà quanto? Salvacibo ti ricorda le scadenze al posto tuo, senza dover scrivere niente.
+
+📷 SCANSIONI E BASTA
+Inquadra il codice a barre: Salvacibo riconosce il prodotto (nome, marca, foto e categoria). Poi inquadra la data di scadenza: la legge da sola, anche se è stampata in piccolo, e capisce se è "da consumarsi entro" o "preferibilmente entro". Un tocco su Salva ed è fatta.
+
+🔔 AVVISI AL MOMENTO GIUSTO
+Ricevi una notifica qualche giorno prima della scadenza e il giorno stesso. Scegli tu l'ora e quanti giorni di anticipo, diversi per freschi, prodotti a lunga conservazione e confezioni aperte.
+
+🍯 "L'HO APERTO": IL CONTO ALLA ROVESCIA
+La marmellata scade nel 2028, ma una volta aperta va finita entro un mese? Tocca "L'ho aperto" e parte il conto alla rovescia, con le notifiche. Spesso i giorni dopo l'apertura vengono letti direttamente dall'etichetta.
+
+🚦 TUTTO SOTTO CONTROLLO A COLPO D'OCCHIO
+Lista colorata a semaforo: verde, giallo, arancio, rosso. Sezioni chiare ("Oggi", "Nei prossimi giorni", "Questa settimana"), filtri per prodotti in scadenza e aperti, statistiche di quanto hai salvato ogni mese.
+
+🔒 I TUOI DATI RESTANO TUOI
+Nessun account. La lettura di codici e date avviene sul telefono e i tuoi prodotti restano sul tuo dispositivo.
+
+💚 GRATIS, DAVVERO
+Tutte le funzioni sono gratuite. Un piccolo banner aiuta a coprire i costi; se l'app ti è utile puoi offrirmi un caffè e la pubblicità sparisce per sempre.
+
+Dati dei prodotti forniti da Open Food Facts (database libero, licenza ODbL).
+
+Salvacibo è sviluppata in Italia da uno sviluppatore indipendente: suggerimenti e segnalazioni sono benvenuti!
+
+=== CATEGORIA ===
+Cibo e bevande  (alternativa: Produttività)
+
+=== TAG / PAROLE CHIAVE DA USARE NEI TESTI ===
+scadenze, spreco alimentare, frigo, dispensa, promemoria scadenza, data di scadenza, lista prodotti, antispreco

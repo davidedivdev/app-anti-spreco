@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- foglia -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M76,32C58,30 38,36 33,54C30,64 34,72 38,76C42,70 48,62 58,56C50,63 44,71 41,79C46,81 54,81 62,76C76,67 78,48 76,32Z" />
+    <!-- nervatura -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#1E8A5F"
+        android:strokeWidth="2.2"
+        android:strokeLineCap="round"
+        android:pathData="M41,79C48,66 58,54 70,40" />
+    <!-- puntino arancio: il "timer" della scadenza -->
+    <path
+        android:fillColor="#FFB547"
+        android:pathData="M37,40m-6,0a6,6 0,1 1,12 0a6,6 0,1 1,-12 0" />
+</vector>
